@@ -1,0 +1,10 @@
+- Ajuda: git help
+	--Comando específicos: git help add / git hjelp commit / git hel <qualquer_comando_git>
+
+- Configuração:
+	--Geral: git config --global user.name "..." (Setar usuário)/ git config --global user.email xxxxxxx@xxxx.xxx
+
+
+...entre muitos outros.
+
+SITE DE REFERÊNCIA: https://gist.github.com/leocomelli/2545add34e4fec21ec16
